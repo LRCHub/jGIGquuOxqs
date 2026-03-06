@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "特別",
+  "base_artist": "999dobby",
+  "createdAt": "2026-03-06T07:39:14.024335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "特別 - Te Bie",
+      "artist": "黃齡 - Isabelle Huang",
+      "has_synced": true,
+      "path": "select/01_特別_-_Te_Bie_黃齡_-_Isabelle_Huang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "特別",
+      "artist": "法蘭黛樂團",
+      "has_synced": true,
+      "path": "select/02_特別_法蘭黛樂團.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "特別 / SPECIAL",
+      "artist": "The Crane",
+      "has_synced": false,
+      "path": "select/03_特別___SPECIAL_The_Crane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "特別",
+      "artist": "Aile The Shota",
+      "has_synced": true,
+      "path": "select/04_特別_Aile_The_Shota.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "４，特別…サービスしますか…？",
+      "artist": "あまとろすいーつ",
+      "has_synced": true,
+      "path": "select/05_4,特別...サービスしますか..._あまとろすいーつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "特別",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_特別_999dobby.txt"
+    }
+  ]
+}
